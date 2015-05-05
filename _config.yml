@@ -1,0 +1,11 @@
+# Site settings
+title: AQ's
+email: hello@korrio.co
+description: "good friend and fresh drinking water."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://korrio.co" # the base hostname & protocol for your site
+twitter_username: korrio
+github_username:  korrio
+
+# Build settings
+markdown: kramdown
